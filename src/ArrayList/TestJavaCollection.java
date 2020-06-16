@@ -12,6 +12,9 @@ public class TestJavaCollection {
 		list.add("umesh");
 		list.add("karkar");
 		list.add("Raj");
+		list.add("Raj");
+		list.add("Raj");
+		list.add("Raj");
 		
 		Iterator<String> itr = list.iterator();
 		
